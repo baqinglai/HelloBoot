@@ -7,5 +7,6 @@ package com.learn.boot.controller;
 public class Test {
     public static void main(String[] args) {
         System.out.println("hot-fix create");
+        System.out.println("hot-fix 冲突测试");
     }
 }
